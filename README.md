@@ -18,7 +18,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Web Applications with AI Automation<br>- 📚 I'm currently learning Machine Learning<br>- 💬 Ask me about  C++, Typescript, JavaScript, Java, Python<br>- 🚀 Interested in Full-Stack Development, AI-powered products, and automation tools<br>-📫 How to reach me niketnannaware703@gmail.com</p>
+🔭 I’m currently working on **Web Applications with AI Automation**  
+📚 I’m currently learning **Machine Learning**  
+💬 Ask me about **C++, TypeScript, JavaScript, Java, and Python**  
+🚀 Interested in **Full-Stack Development, AI-powered products, and automation tools**  
+📫 How to reach me: **niketnannaware703@gmail.com**
 
 ###
 
