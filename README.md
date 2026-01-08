@@ -1,12 +1,22 @@
+
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img 
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+    width="300"
+    style="border-radius: 50%;"
+  />
 </div>
+
+
+
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Niket2025.Niket2025&"  />
-</div>
+</div> 
+
 
 ###
 
